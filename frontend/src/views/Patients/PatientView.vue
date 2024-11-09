@@ -83,9 +83,7 @@ import DefaultLayout from '@/layouts/DefaultLayout.vue'
                 <th scope="col" class="px-6 py-3">Reason To Hospital</th>
                 <th scope="col" class="px-6 py-3">Status</th>
                 <th scope="col" class="px-6 py-3">Symptom</th>
-                <th scope="col" class="px-6 py-3">
-                  Temperature, blood pressure, pulse, heart beat
-                </th>
+                <th scope="col" class="px-6 py-3">Temperature, oxygen, heart beat</th>
                 <th scope="col" class="px-6 py-3">Diagnose</th>
                 <th scope="col" class="px-6 py-3">Drug</th>
               </tr>
